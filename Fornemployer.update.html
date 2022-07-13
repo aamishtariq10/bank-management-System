@@ -1,0 +1,99 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>update employers data</title>
+</head>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<body>
+<div  style="border: 1px solid darkslateblue ; width:100% ; height:50px ; background-color:darkslateblue">
+
+    <CENTER>
+        <font color="white">
+            <H1 STYLE="font-family: Calibri ;">BANK MANAGEMENT DATABASE SYSTEM LOGIN</H1>
+        </font>
+    </CENTER>
+
+</div>
+
+<font color="#483d8b" class="font-weight-bold " ;>
+    <center><h1 style="font-family: Calibri">Update Employers Data</h1></center></font>
+
+<style>
+    body {
+        background-image: url('IMAGE.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+
+
+    }
+</style>
+
+<br>
+<br>
+<form method="post" action="Formemployer.update.php">
+    <div style=" width: 600px; height: 1100px; margin-left: 390px; border-collapse: collapse">
+
+        <div class="form-group" style="width:600px; height:200px ; color: lightblue  "> <!-- ID card no to update data -->
+            <FONT color="blue" > <B> ENTER ID CARD NUMBER OF EMPLOYER WHOSE DATA YOU WANT TO UPDATE</B></FONT>
+            <label  class="control-label alert alert-primary">CNIC</label>
+            <input type="number" class="form-control" placeholder="xxxxx-xxxxxxx-x" NAME="A12">
+        </div>
+
+        <FONT color="blue" > <B>ENTER THE DATA YOU WANT TO UPDATE</B></FONT>
+
+        <div class="form-group"> <!-- Full Name -->
+            <label  class="control-label alert alert-primary">Full Name</label>
+            <input type="text" class="form-control" placeholder="Full Name" NAME="A13">
+        </div>
+
+        <div class="form-group"> <!-- ID CARD No -->
+            <label class="control-label alert alert-primary">CNIC</label>
+            <input type="number" class="form-control"  placeholder="XXXXX-XXXXXXX-X" NAME="A14">
+        </div>
+
+        <div class="form-group"> <!-- PHONE NO -->
+            <label  class="control-label alert alert-primary"> Phone number</label>
+            <input type="number" class="form-control"  placeholder="+92XXXXXXXXXX" NAME="no12">
+        </div>
+
+        <div class="form-group"> <!-- City-->
+            <label  class="control-label alert alert-primary">City Name</label>
+            <input type="text" class="form-control" placeholder="City" NAME="A16">
+        </div>
+
+        <div class="form-group"> <!-- POST-->
+            <label  class="control-label alert alert-primary">Branch Post</label>
+            <input type="text" class="form-control"  placeholder="Post" NAME="A17">
+        </div>
+
+
+        <div class="form-group"> <!-- Seniority-->
+            <label  class="control-label alert alert-primary">Seniority</label>
+            <input type="number" class="form-control"  placeholder=" Grade " name="A18">
+        </div>
+
+        <div class="form-group  alert alert-primary ">
+            <label> Current Address</label>
+            <textarea class="form-control rows=2" name="A19"></textarea>
+        </div>
+
+       <center><div class="form-group"> <!-- Submit Button -->
+           <button type="submit" class="btn btn-primary">UPDATE</button>
+       </div></center>
+
+    </div>
+</form>
+<br>
+<br>
+<br>
+<br>
+
+<div  style="border: 1px solid darkslateblue ; width=100% ; height:100px ; background-color:darkslateblue">
+
+</div>
+</body>
+
+</html>

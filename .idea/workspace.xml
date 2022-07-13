@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1fd2e420-ac9e-4be7-8f13-5a09f41cbcf7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ICT LAB PROJECT (BANK MANAGMENT SYSTEM)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1UZSIy8WTY2m6e6qCw9OywHGPEy" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/Xamp/php/php.exe" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="&lt;br&gt;" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fd2e420-ac9e-4be7-8f13-5a09f41cbcf7" name="Default Changelist" comment="" />
+      <created>1575562547697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575562547697</updated>
+      <workItem from="1575562549420" duration="2630000" />
+      <workItem from="1575639821005" duration="1967000" />
+      <workItem from="1575648803425" duration="6104000" />
+      <workItem from="1575703403578" duration="4593000" />
+      <workItem from="1575710462529" duration="17126000" />
+      <workItem from="1575882800400" duration="223000" />
+      <workItem from="1575904703071" duration="14278000" />
+      <workItem from="1575981953113" duration="716000" />
+      <workItem from="1576041680201" duration="237000" />
+      <workItem from="1576045211489" duration="265000" />
+      <workItem from="1576307090630" duration="2033000" />
+      <workItem from="1576311647174" duration="797000" />
+      <workItem from="1576312995932" duration="671000" />
+      <workItem from="1576313747727" duration="506000" />
+      <workItem from="1576314302918" duration="232000" />
+      <workItem from="1576314574046" duration="69000" />
+      <workItem from="1576314673429" duration="24000" />
+      <workItem from="1576314726221" duration="77000" />
+      <workItem from="1576314834324" duration="50000" />
+      <workItem from="1576314913419" duration="186000" />
+      <workItem from="1576320024425" duration="1351000" />
+      <workItem from="1576321505710" duration="1583000" />
+      <workItem from="1576333946869" duration="3193000" />
+      <workItem from="1576391875999" duration="5648000" />
+      <workItem from="1576406851534" duration="3371000" />
+      <workItem from="1576411978817" duration="2213000" />
+      <workItem from="1576414302097" duration="446000" />
+      <workItem from="1576414784101" duration="8000" />
+      <workItem from="1576419704598" duration="12000" />
+      <workItem from="1576419840137" duration="156000" />
+      <workItem from="1576420261225" duration="39000" />
+      <workItem from="1576420499556" duration="430000" />
+      <workItem from="1576420967659" duration="1191000" />
+      <workItem from="1576422212179" duration="602000" />
+      <workItem from="1576422853710" duration="76000" />
+      <workItem from="1576422960544" duration="56000" />
+      <workItem from="1576423050804" duration="457000" />
+      <workItem from="1576483812462" duration="1946000" />
+      <workItem from="1576485828535" duration="1339000" />
+      <workItem from="1576487221298" duration="835000" />
+      <workItem from="1576488106504" duration="485000" />
+      <workItem from="1576508332745" duration="3242000" />
+      <workItem from="1576511731475" duration="419000" />
+      <workItem from="1576512184766" duration="3711000" />
+      <workItem from="1576515970234" duration="150000" />
+      <workItem from="1576516151772" duration="1829000" />
+      <workItem from="1576518034676" duration="2707000" />
+      <workItem from="1576520820288" duration="791000" />
+      <workItem from="1576596143270" duration="11147000" />
+      <workItem from="1576607911005" duration="633000" />
+      <workItem from="1576680423314" duration="13952000" />
+      <workItem from="1576737379989" duration="276000" />
+      <workItem from="1576739616486" duration="294000" />
+      <workItem from="1576771652536" duration="7364000" />
+      <workItem from="1576784589864" duration="1247000" />
+      <workItem from="1576823432879" duration="452000" />
+      <workItem from="1576825939833" duration="1639000" />
+      <workItem from="1576828053956" duration="68000" />
+      <workItem from="1577003966071" duration="1663000" />
+      <workItem from="1577006261847" duration="896000" />
+      <workItem from="1577456139021" duration="788000" />
+      <workItem from="1577810292715" duration="1923000" />
+      <workItem from="1579366410519" duration="135000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/formclient.retrieve.php</url>
+          <line>28</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
